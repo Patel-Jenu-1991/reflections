@@ -13,6 +13,14 @@ existing repository from github, in order to work with a new repository.
 How is the staging area different from the working directory and the repository?
 What value do you think it offers?
 
+The staging area is a mediator between the working directory and the repository 
+that allows you to control the changes and modifications made to the master branch
+of your repository.
+
+It offers great value in recording changes that are logical and allows you to 
+stage specific files accordingly. A grand chance to revert your mistakes before 
+you commit to the repository.
+
 --------------------------------------------------------------------------------
 --------------------------------------------------------------------------------
 
