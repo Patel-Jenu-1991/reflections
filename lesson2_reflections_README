@@ -27,6 +27,27 @@ you commit to the repository.
 How can you use the staging area to make sure you have one commit per logical
 change?
 
+I have to options to add/remove files from/to the staging area or the working 
+directory.
+
+I can leave a commit message of a variable size depeding on the change taking 
+place in the repository which git will save as a snapshot along with the date 
+and time details.
+
+To recall from the lesson, I would like to briefly abbreviate the format of a 
+commit message, that you can write using the configured text-editor for use with
+git.
+
+subject line
+
+body
+
+footer
+
+First we have a subject line, then we have a body followed by an extra line break
+and finally the footer after another extra line break, that usually consists of 
+reference ids to other commits generally serving a common problem. 
+
 --------------------------------------------------------------------------------
 --------------------------------------------------------------------------------
 
