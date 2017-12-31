@@ -1,11 +1,11 @@
 What happens when you initialize a repository? Why do you need to do it?
 
-A new repository is created at the location where the command git init was 
-run. A hidden directory named .git is created where the repository has been 
+A new repository is created at the location where the command git init was
+run. A hidden directory named .git is created where the repository has been
 initialized, which usually handles the repository meta data.
 
-It is essential to initialize a new git repository, unless you're cloning an 
-existing repository from github, in order to work with a new repository.  
+It is essential to initialize a new git repository, unless you're cloning an
+existing repository from github, in order to work with a new repository.
 
 --------------------------------------------------------------------------------
 --------------------------------------------------------------------------------
@@ -13,12 +13,12 @@ existing repository from github, in order to work with a new repository.
 How is the staging area different from the working directory and the repository?
 What value do you think it offers?
 
-The staging area is a mediator between the working directory and the repository 
+The staging area is a mediator between the working directory and the repository
 that allows you to control the changes and modifications made to the master branch
 of your repository.
 
-It offers great value in recording changes that are logical and allows you to 
-stage specific files accordingly. A grand chance to revert your mistakes before 
+It offers great value in recording changes that are logical and allows you to
+stage specific files accordingly. A grand chance to revert your mistakes before
 you commit to the repository.
 
 --------------------------------------------------------------------------------
@@ -27,14 +27,14 @@ you commit to the repository.
 How can you use the staging area to make sure you have one commit per logical
 change?
 
-I have to options to add/remove files from/to the staging area or the working 
+I have to options to add/remove files from/to the staging area or the working
 directory.
 
-I can leave a commit message of a variable size depeding on the change taking 
-place in the repository which git will save as a snapshot along with the date 
+I can leave a commit message of a variable size depeding on the change taking
+place in the repository which git will save as a snapshot along with the date
 and time details.
 
-To recall from the lesson, I would like to briefly abbreviate the format of a 
+To recall from the lesson, I would like to briefly abbreviate the format of a
 commit message, that you can write using the configured text-editor for use with
 git.
 
@@ -45,14 +45,22 @@ body
 footer
 
 First we have a subject line, then we have a body followed by an extra line break
-and finally the footer after another extra line break, that usually consists of 
-reference ids to other commits generally serving a common problem. 
+and finally the footer after another extra line break, that usually consists of
+reference ids to other commits generally serving a common problem.
 
 --------------------------------------------------------------------------------
 --------------------------------------------------------------------------------
 
 What are some situations when branches would be helpful in keeping your history
 organized? How would branches help?
+
+branches help by allowing the user to have a greater flexibility of control on
+the repository by allowing you to merge changes made in different branches and
+create different versions of your work along the way.
+
+An organized history created using branches is the key to retrieving different
+versions of your work from the repository, you may even want to begin a new
+project altogether beginning at a certain snapshot in your history.
 
 --------------------------------------------------------------------------------
 --------------------------------------------------------------------------------
