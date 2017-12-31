@@ -77,6 +77,11 @@ version control (Yes git is my favorite!).
 What is the result of merging two branches together? Why do we represent it in
 the diagram the way we do?
 
+Merging two branches together makes a new branch altogether, creating a new 
+merge commit in your repository and leaving all other branches as is.
+
+It is represented as merging into another branch in our diagram to illustrate a 
+merger of branches. 
 --------------------------------------------------------------------------------
 --------------------------------------------------------------------------------
 
