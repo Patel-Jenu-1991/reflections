@@ -67,6 +67,10 @@ project altogether beginning at a certain snapshot in your history.
 
 How do the diagrams help you visualize the branch structure?
 
+The diagram follows a simple lines and bubbles pattern to map a tree like 
+structure of the commits, and clearly sketches the concept of reachability in 
+version control (Yes git is my favorite!).
+
 --------------------------------------------------------------------------------
 --------------------------------------------------------------------------------
 
