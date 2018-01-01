@@ -88,5 +88,10 @@ merger of branches.
 What are the pros and cons of Git's automatic merging vs. always doing merges
 manually?
 
+Automatic merging saves time and all the work done so far periodically.
+Git leaves a commit message for you.
+
+Merging manually has more flexibility of customizing the merge.
+You have to write your own commit message.
 --------------------------------------------------------------------------------
 --------------------------------------------------------------------------------
