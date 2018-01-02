@@ -1,29 +1,57 @@
 When would you want to use a remote repository rather than keeping all your work
 local?
 
-    Fill in your answer here
+I would like to use a remote repository to mostly back up my work on github 
+servers or collaborate with friends or collegues while working on a project.
+
+I have the option to buy a subscription for a private repository on github to 
+avoid public gists on valuable work. Since github offers free remote repositories
+for opensource projects I'm most likely to use a remote repository for projects 
+that don't have to deal with any proprietary code.
+
+--------------------------------------------------------------------------------
+--------------------------------------------------------------------------------
 
 Why might you want to always pull changes manually rather than having Git
 automatically stay up-to-date with your remote repository?
 
-    Fill in your answer here
+I may want to always pull changes manually rather than having git automatically 
+sync with my remote repository to avoid cluttering up my local repositories with 
+unnecessary changes. 
+
+It's considered best practice while using github to collaborate with others.
+
+--------------------------------------------------------------------------------
+--------------------------------------------------------------------------------
 
 Describe the differences between forks, clones, and branches.  When would you
 use one instead of another?
 
     Fill in your answer here
 
+--------------------------------------------------------------------------------
+--------------------------------------------------------------------------------
+
 What is the benefit of having a copy of the last known state of the remote
 stored locally?
 
     Fill in your answer here
+
+--------------------------------------------------------------------------------
+--------------------------------------------------------------------------------
 
 How would you collaborate without using Git or GitHub?  What would be easier,
 and what would be harder?
 
     Fill in your answer here
 
+--------------------------------------------------------------------------------
+--------------------------------------------------------------------------------
+
 When would you want to make changes in a separate branch rather than directly in
 master?  What benefits does each approach have?
 
     Fill in your answer here
+    
+--------------------------------------------------------------------------------
+--------------------------------------------------------------------------------
