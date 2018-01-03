@@ -27,7 +27,19 @@ It's considered best practice while using github to collaborate with others.
 Describe the differences between forks, clones, and branches.  When would you
 use one instead of another?
 
-    Fill in your answer here
+Forks are created on github by cloning other repositories on github into your own
+fork. This enables you to make changes in the repository on a copy of your own 
+version, leaving the original work by the author intact.
+
+Clones of repositories on github and your own machine/local network can be created 
+using the command `git clone` <repo_location>, unlike creating forks that only exist on 
+github.
+
+Branches are different nodes of different versions of your work within your 
+concept map of the repository you are currently working on.
+
+Each of them has been created to serve a purpose, and I'd like to use them on 
+purpose when it seems most appropriate.
 
 --------------------------------------------------------------------------------
 --------------------------------------------------------------------------------
