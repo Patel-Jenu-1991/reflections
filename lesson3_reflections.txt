@@ -79,7 +79,22 @@ for software engineers based on their requirements.
 When would you want to make changes in a separate branch rather than directly in
 master?  What benefits does each approach have?
 
-    Fill in your answer here
+I would like to make changes in a separate branch while working with a new library 
+or experimental code adding new features. Whenever I can anticipate that an experiment 
+or a new feature may break the entire project, I would choose to make changes in 
+a branch rather than directly in master.
+
+When I'm confident about a change that would only upgrade the project then I am 
+most certainly likely to make changes directly to the master.
+
+The benefits of working with a branch, includes experimenting on new features 
+before making changes final. Although the process to merge your branch into master
+can get quite complicated.
+
+The benefits of working with the master is that it creates a fast forward merge 
+and changes can be tracked using git log. Although this approach is not suitable 
+for complex tasks that first need to be tested thoroughly or any experimental feature
+that may break the project. This is where pull requests are more helpful.
     
 --------------------------------------------------------------------------------
 --------------------------------------------------------------------------------
