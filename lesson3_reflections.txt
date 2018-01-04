@@ -61,7 +61,17 @@ a computer crash.
 How would you collaborate without using Git or GitHub?  What would be easier,
 and what would be harder?
 
-    Fill in your answer here
+I would collaborate using ftp as an alternative for git or github, storage for 
+files would have been easier.
+
+Sharing of files is possible with ftp, but tracking changes in files or getting a 
+more detailed report on the project over all would have been a more tedious task. 
+ 
+Getting the most efficient platform to collaborate, experiment, organize hackathons, 
+and build software together wouldn't have been possible without git and github.
+
+A service that is open source and caters more efficiently to the internet marketplace
+for software engineers based on their requirements.
 
 --------------------------------------------------------------------------------
 --------------------------------------------------------------------------------
